@@ -139,6 +139,12 @@ span {
     color: #007bff; /* You can change the color as needed */
 }
 
+.education-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 10px;
+}
 
 
 @keyframes floatImage {
