@@ -10,9 +10,8 @@ ScrollReveal().reveal('.home-img, .educations-container, .certificates-box, .con
 ScrollReveal().reveal('.home-contact h1, .about-img', {origin: 'left'});
 ScrollReveal().reveal('.home-contact p, .about-content', {origin: 'right'});
 
-// typed js
 var typed = new Typed('.multiple-text', {
-    strings: ['Information System Student'],
+    strings: ['Front-End Developer', 'Data Analyst'],
     typeSpeed: 70,
     loop: true,
     showCursor: true,
